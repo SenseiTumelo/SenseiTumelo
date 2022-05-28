@@ -43,9 +43,10 @@ Here are some ideas to get you started:
 
 - :seedling: Fast learner, hard worker and a team player who is proficient in an array of scripting and programming languages.
 
-- :zap: Able to write efficient code using best current best practices in web development.
+- :zap: Able to write efficient code using current best practices in web development.
 
 - :mailbox:How to reach me: https://www.linkedin.com/mwlite/in/tumelo-motjopi-2b9b06167
+
 
 ### :seedling: Languages & Tools
 
