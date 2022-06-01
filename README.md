@@ -68,6 +68,10 @@ Here are some ideas to get you started:
   <a href="http://senseijongsu.000webhostapp.com/">
     Tumie's Resto.
   <a/>
+      <a href="https://tmotjopi.netlify.app/">
+    profile
+  <a/>
+    
 </div>
 
 
