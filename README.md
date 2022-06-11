@@ -46,7 +46,13 @@ Here are some ideas to get you started:
 
 - :zap: Able to write efficient code using current best practices in web development.
 
-- :mailbox:How to reach me: https://www.linkedin.com/mwlite/in/tumelo-motjopi-2b9b06167
+- :mailbox:How to reach me: 
+<a href="https://www.linkedin.com/mwlite/in/tumelo-motjopi-2b9b06167">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
 
 ### :seedling: Languages & Tools
